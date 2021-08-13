@@ -18,7 +18,7 @@ I enjoy exploring various domains of Artificial Intelligence and Data Science. I
 <a href="https://twitter.com/karnikakapoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karnikakapoor" height="30" width="40" /></a>
 <a href="https://kaggle.com/@karnikakapoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="@karnikakapoor" height="30" width="40" /></a>
 <a href="https://instagram.com/@karnikakapoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@karnikakapoor" height="30" width="40" /></a>
-<a href="/https://karnikakapoor.blogspot.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://karnikakapoor.blogspot.com/" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
