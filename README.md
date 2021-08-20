@@ -3,7 +3,7 @@
 </a>
 
 
-<h1 align="center">Hi 👋, I'm Karnika Kapoor</h1>
+<h1 align="center">Hey!, I'm Karnika Kapoor</h1>
 <h3>I am an Artificial Intelligence and Data Science Enthusiast </h3>
 I enjoy exploring various domains of Artificial Intelligence and Data Science. I am a Kaggle Notebook Master. I work on fun projects and enjoy the learning experience. I graduated in Mechanical Engineering and I specialised in CAD. I enjoy writing on my blog. 
 
