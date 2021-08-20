@@ -11,5 +11,12 @@ I enjoy exploring various domains of Artificial Intelligence and Data Science. I
 
 - 📝 I write blogs on [https://karnikakapoor.blogspot.com/](https://karnikakapoor.blogspot.com/)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/karnikakapoor" target="blank"><img align="center" src="https://github.com/KarnikaKapoor/karnikakapoor/blob/main/icons/185559_twitter_icon.png?raw=true" alt="karnikakapoor" height="30" width="40" /></a>
+<a href="https://kaggle.com/@karnikakapoor" target="blank"><img align="center" src="https://github.com/KarnikaKapoor/karnikakapoor/blob/main/icons/4519136_kaggle_icon.png?raw=true" alt="@karnikakapoor" height="30" width="40" /></a>
+<a href="/https://karnikakapoor.blogspot.com/" target="blank"><img align="center" src="https://github.com/KarnikaKapoor/karnikakapoor/blob/main/icons/185577_blogger_icon.png?raw=true" alt="https://karnikakapoor.blogspot.com/" height="30" width="40" /></a>
+</p>
+
 
 <h3 align="right">🌈 Best Wishes 🌈</h3>
